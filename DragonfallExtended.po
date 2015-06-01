@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Shadowrun Dragonfall Fr\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-27 13:44+0100\n"
-"PO-Revision-Date: 2015-06-01 14:25+0100\n"
+"PO-Revision-Date: 2015-06-01 15:19+0100\n"
 "Language-Team: nbrunet62\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -9659,29 +9659,40 @@ msgid ""
 "{{GM}}Reluctantly, he shifts his attention away from the elvish dancer "
 "swaying in front of him.{{/GM}}"
 msgstr ""
+"{{GM}}Epinglé sur la veste de responsable trop-couteuse-pour-le-quartier et "
+"trop-grande-pour-être-sa-veste un badge portant un nom: FRANK.{{/GM}}\n"
+"\n"
+"Ouais. Qu'esses tu veux?\n"
+"\n"
+"{{GM}}A contrecœur, il détourne son attention de la danseuse elfique se "
+"déhanchant devant lui.{{/GM}}"
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationLink:responsetext
 msgid ""
 "{{CC}}Intelligence: 3{{/CC}} {{GM}}Lie.{{/GM}} Sara needs your elevator key. "
 "She says it's important."
 msgstr ""
+"{{CC}}Intelligence: 3{{/CC}} {{GM}}Mentir.{{/GM}} Sara a besoin de ta clé de "
+"l'ascenseur. Elle a dit que c'était important."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationLink:responsetext
 msgid "I'm looking for a guy. Calls himself Green Winters. Know him?"
-msgstr ""
+msgstr "Je recherche un mec. Il se surnomme Green Winters. Ca te parle?"
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationLink:responsetext
 msgid "I need to get into the hotel."
-msgstr ""
+msgstr "Je dois monter dans l'hôtel."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationLink:responsetext
 msgid ""
 "{{GM}}Attack him.{{/GM}} Your elevator key. I'll take it from your corpse."
 msgstr ""
+"{{GM}}Attaquer le.{{/GM}} Ta clé d'ascenseur. Je vais la prendre sur ton "
+"corps."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationLink:responsetext
 msgid "Nothing, I'm leaving."
-msgstr ""
+msgstr "Rien, je m'en vais."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationNode:text
 msgid ""
@@ -9690,18 +9701,22 @@ msgid ""
 "Yep. Sad old bastard with a datajack that oozes somethin' nasty. Wears cheap "
 "glasses and drinks like a fish. What about him?"
 msgstr ""
+"{{GM}}Son visage se tord de dégoût.{{/GM}}\n"
+"\n"
+"Yep. Un sale vieux connard avec un datajack qui respire la méchanceté. Porte "
+"des lunettes à bas prix et boit comme un trou. C'est lui?"
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationLink:responsetext
 msgid "I need to talk to him."
-msgstr ""
+msgstr "Je dois lui parler."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationLink:responsetext
 msgid "I heard that he might be staying upstairs."
-msgstr ""
+msgstr "J'ai entendu dire qu'il pourrait être à l'étage."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationLink:responsetext
 msgid "Where can I find him?"
-msgstr ""
+msgstr "Ou je peux le trouver?"
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationNode:text
 msgid ""
@@ -9711,6 +9726,11 @@ msgid ""
 "\n"
 "{{GM}}He turns back to the dancer.{{/GM}}"
 msgstr ""
+"Eh bien, c'est ton problème, chummer.\n"
+"\n"
+"Moi mon problème, c'est que je te parle plutôt que de regarder Inga danser.\n"
+"\n"
+"{{GM}}Il regarde de nouveau la danseuse.{{/GM}}"
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationNode:text
 msgid ""
@@ -9724,7 +9744,7 @@ msgstr ""
 "\n"
 "Si je le vois, je lui ferai savoir que tu le recherches.\n"
 "\n"
-"{{GM}}Il se retourne vers les danseurs.{{/GM}}"
+"{{GM}}Il se retourne vers la danseuse.{{/GM}}"
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationNode:text
 msgid ""
@@ -9735,6 +9755,12 @@ msgid ""
 "\n"
 "{{GM}}He turns back to the dancer.{{/GM}}"
 msgstr ""
+"{{GM}}Le responsable hausse les épaules.{{/GM}}\n"
+"\n"
+"C'est un régulier. Si tu attends un peu par ici, tu finiras par le voir. "
+"Quoique pas forcément. Je l'ai pas vu depuis un moment.\n"
+"\n"
+"{{GM}}Il reporte son attention sur la danseuse.{{/GM}}"
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationNode:text
 msgid ""
@@ -9742,20 +9768,26 @@ msgid ""
 "\n"
 "We're, uh... fumigatin' up there. Y'know, for bugs."
 msgstr ""
+"L'hôtel est fermé.\n"
+"\n"
+"Nous le... euh... vermifugeons. Tu sais, pour les cafards."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationLink:responsetext
 msgid ""
 "Fumigating? The guy working the door said that you were closed for "
 "renovations."
 msgstr ""
+"Vermifuger? Le type à la porte m'a dit qu'il était fermé pour rénovations."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationLink:responsetext
 msgid "We're in Drogenkippe. You think I care about a few bugs? I need a room."
 msgstr ""
+"Nous sommes dans DrogenKippe. Qui se soucis de quelques cafards? J'ai besoin "
+"d'une chambre."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationLink:responsetext
 msgid "Can I speak to your manager?"
-msgstr ""
+msgstr "Je peux parler à ton responsable?"
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationLink:responsetext
 msgid ""
@@ -9768,6 +9800,9 @@ msgid ""
 "\n"
 "Closed is closed, and that's what we are."
 msgstr ""
+"Vermifuger. Rénover. Qu'est-ce-que ca peut te faire?\n"
+"\n"
+"Fermé c'est fermé, et c'est ce que nous sommes."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationNode:text
 msgid ""
@@ -9776,23 +9811,33 @@ msgid ""
 "\n"
 "Now take your business to the bar, or take it outside."
 msgstr ""
+"{{GM}}Il s'humidifie les lèvres et tourne son attention sur la danseuse. "
+"Elle maintient un regard lointain au dessus de sa tête.{{/GM}}\n"
+"\n"
+"Maintenant, va faire un tour au bar, ou casses toi d'ici."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationLink:responsetext
 msgid ""
 "{{CC}}Intelligence: 3{{/CC}} {{GM}}Lie.{{/GM}} Sara needs your elevator key."
 msgstr ""
+"{{CC}}Intelligence: 3{{/CC}} {{GM}}Mentir.{{/GM}} Sara a besoin de la clé de "
+"l'ascenseur."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationLink:responsetext
 msgid ""
 "{{CC}}¥200{{/CC}} All right, look. I'll pay you 200 nuyen for access to the "
 "elevator. I have business upstairs."
 msgstr ""
+"{{CC}}¥200{{/CC}} D'accord, écoutes. Je te file 200 nuyen pour accéder à "
+"l'ascenseur. J'ai un travail à faire à l'étage."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationLink:responsetext
 msgid ""
 "{{CC}}Etiquette: Corporate{{/CC}} Frank. Look at us. We're here on "
 "business... *corporate* business."
 msgstr ""
+"{{CC}}Etiquette: Corporation{{/CC}} Frank. Regardes nous. Nous sommes ici "
+"pour affaires... affaires de *corpo*."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationLink:responsetext
 msgid ""
@@ -9800,14 +9845,18 @@ msgid ""
 "here. I'll bet it's a pretty delicate one. It'd be a shame if something "
 "happened to it."
 msgstr ""
+"{{CC}}Etiquette: Gang{{/CC}} Je peux voir que vous préparer une petite "
+"opération ici. Et je pari qu'elle doit être particulièrement délicate. Ca "
+"serait une honte si quelque devait tout gâcher."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationLink:responsetext
 msgid "{{GM}}Attack him.{{/GM}} I think I'll just take the key instead."
 msgstr ""
+"{{GM}}Attaquer le.{{/GM}} Je pense que je vais simplement prendre la clé."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationLink:responsetext
 msgid "All right, all right, I get the hint. We're leaving."
-msgstr ""
+msgstr "Très bien, très bien, j'ai capté. On se casse."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationNode:text
 msgid ""
@@ -9815,22 +9864,29 @@ msgid ""
 "\n"
 "Sara? She needs something from ME?"
 msgstr ""
+"{{GM}}Les yeux de Frank s'écarquillent.{{/GM}}\n"
+"\n"
+"Sara? Elle désire quelque chose de MOI?"
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationLink:responsetext
 msgid ""
 "That's right. And if you helped her out, it sounded like she'd be \"grateful."
 "\""
 msgstr ""
+"C'est ça. Et si tu peux l'aider, elle a laisser entendre qu'elle te serait "
+"très \"reconnaissante\"."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationLink:responsetext
 msgid "Yeah, I know. I don't get it, either."
-msgstr ""
+msgstr "Ouais, je sais. Je ne comprends pas, non plus."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationLink:responsetext
 msgid ""
 "She sounded like she was in a bad way when I talked to her. If you care "
 "about her, you'd better help her out."
 msgstr ""
+"Elle avait l'air en fâcheuse posture quand je lui ai parlé. Si tu te soucis "
+"d'elle, tu ferais mieux de l'aider."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationNode:text
 msgid ""
@@ -9841,14 +9897,21 @@ msgid ""
 "\n"
 "I can open the elevator back up, though. And you can let her know?"
 msgstr ""
+"Okay, Ouais, Okay.\n"
+"\n"
+"Je, euh... Je ne peux pas quitter la piste. En service, et tout et tout. Et "
+"je ne peux pas te remettre la clé.\n"
+"\n"
+"Par contre, je peux ouvrir l'ascenseur pour qu'elle monte. Tu peux le lui "
+"dire?"
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationLink:responsetext
 msgid "I could make that happen."
-msgstr ""
+msgstr "Je peux faire ca."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationLink:responsetext
 msgid "{{CC}}Charisma: 5{{/CC}} For 200 nuyen I could."
-msgstr ""
+msgstr "{{CC}}Charisme: 5{{/CC}} Pour 200 nuyen je peux le faire."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationNode:text
 msgid ""
@@ -9861,10 +9924,19 @@ msgid ""
 "The elevator's open. When you see Sara, you tell her that I'm glad she's "
 "okay, right? And make sure she gets that it's ME helping her."
 msgstr ""
+"Okay. C'est partie.\n"
+"\n"
+"{{GM}}Frank se frotte les mains, une lueur d'excitation à peine contenue "
+"dans le regard. Il attrape une petite télécommande dans sa poche et appuie "
+"sur un bouton.{{/GM}}\n"
+"\n"
+"L'ascenseur est ouvert. Quand tu verras Sara, tu lui diras que je suis "
+"heureux qu'elle aille bien, okay? Et assures-toi qu'elle sache bien que "
+"c'est MOI qui l'ai aidé."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationLink:responsetext
 msgid "Sure thing, Frank."
-msgstr ""
+msgstr "C'est clair, Frank."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationNode:text
 msgid ""
@@ -9877,6 +9949,15 @@ msgid ""
 "The elevator's open. When you see Sara, you tell her that I'm glad she's "
 "okay, right? And make sure she gets that it's ME helping her."
 msgstr ""
+"Okay. D'accord.\n"
+"\n"
+"{{GM}}Frank se frotte les mains, une lueur d'excitation à peine contenue "
+"dans le regard. Il vous tend un créditube et attrape une petite télécommande "
+"dans sa poche et appuie sur un bouton.{{/GM}}\n"
+"\n"
+"L'ascenseur est ouvert. Quand tu verras Sara, tu lui diras que je suis "
+"heureux qu'elle aille bien, okay? Et assures-toi qu'elle sache bien que "
+"c'est MOI qui l'ai aidé."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationNode:text
 msgid ""
@@ -9887,6 +9968,12 @@ msgid ""
 "\n"
 "Make it quick before I change my mind."
 msgstr ""
+"{{GM}}Frank regarde le créditube que vous lui tendez, puis reporte son "
+"attention sur la danseuse. Lentement il tend la main et l'empoche.{{/GM}}\n"
+"\n"
+"'Kay, tu peux y aller. L'ascenseur est ouvert.\n"
+"\n"
+"Fais ca rapidement avant que je change d'avis."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationNode:text
 msgid ""
@@ -9896,6 +9983,11 @@ msgid ""
 "\n"
 "Look... we don't want any, ah, corporate trouble around here."
 msgstr ""
+"Des affaires, hein?\n"
+"\n"
+"{{GM}}Frank fait une pause, réfléchissant à la situation.{{/GM}}\n"
+"\n"
+"Ecoute... Nous ne souhaitons aucune, hum, problème de corpo par ici."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationNode:text
 msgid ""
@@ -9903,6 +9995,9 @@ msgid ""
 "\n"
 "Neither do we."
 msgstr ""
+"{{GM}}Dietrich fait une grimace.{{/GM}}\n"
+"\n"
+"Tout comme nous."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationNode:text
 msgid ""
@@ -9912,10 +10007,15 @@ msgid ""
 "Okay. Right. The elevator's open. Just... try to keep things quiet up there, "
 "okay?"
 msgstr ""
+"{{GM}}Le regard de Frank passe de vous à Dietrich, puis à Eiger, Glory et "
+"reviens sur vous. Alors il cherche quelque chose dans sa poche.{{/GM}}\n"
+"\n"
+"Okay, c'est bon. L'ascenseur est ouvert. Par contre... essayez de rester "
+"discret la dessus, okay?"
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationLink:responsetext
 msgid "You'll never know we were here."
-msgstr ""
+msgstr "Personne ne saura jamais que nous étions ici."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationNode:text
 msgid ""
@@ -9925,6 +10025,11 @@ msgid ""
 "\n"
 "That's a hell of a mistake, friend."
 msgstr ""
+"Tu me menaces? Dans mon propre club?\n"
+"\n"
+"{{GM}}Il vous regarde avec incrédulité.{{/GM}}\n"
+"\n"
+"C'est une putain d'erreur, mon pote."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationNode:text
 msgid ""
@@ -9936,6 +10041,13 @@ msgid ""
 "\n"
 "I'm betting we can."
 msgstr ""
+"$+(l.he) ne te menace pas. $+(l.he) menace ton business. Et je l'aide à le "
+"faire.\n"
+"\n"
+"Je parie que nous faire un vrai gâchis de cet endroit avant que tu puisses "
+"ramener assez de crétins pour nous arrêter.\n"
+"\n"
+"Je parie que nous pouvons le faire."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationNode:text
 msgid ""
@@ -9946,6 +10058,12 @@ msgid ""
 "\n"
 "Oh, and Frank? I *am* threatening you."
 msgstr ""
+"Je suis sûr que nous le pouvons.\n"
+"\n"
+"Ca se passerait mieux pour toi si tu nous laissais monter à l'étage. Nous "
+"dégagerions de ta vue et deviendrions le problème de quelqu'un d'autre.\n"
+"\n"
+"Oh, et Frank? Je *te* menace."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationNode:text
 msgid ""
@@ -9954,13 +10072,17 @@ msgid ""
 "\n"
 "Okay, okay. It's open now. No need for trouble."
 msgstr ""
+"{{GM}}Le regard de Frank passe de vous à Dietrich, puis à Eiger, Glory et "
+"reviens sur vous. Alors il cherche quelque chose dans sa poche.{{/GM}}\n"
+"\n"
+"Okay, okay. C'est ouvert maintenant. Pas besoin de causer de grabuge."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationLink:responsetext
 #: /data/scenes/a2_pharma_s1.srt:TsCall:Display Text over Actor:text
 #: /data/convos/523bfbe4346238e41d007f96.convo:ConversationLink:responsetext
 #: /data/convos/5266f14d663661b825002f27.convo:ConversationLink:responsetext
 msgid "Pleasure doing business with you."
-msgstr ""
+msgstr "C'était sympa de faire affaire avec toi."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationNode:text
 msgid ""
@@ -9968,10 +10090,13 @@ msgid ""
 "\n"
 "Yeah. Bye. Don't let the door hit ya."
 msgstr ""
+"{{GM}}Il agite une main dédaigneusement.{{/GM}}\n"
+"\n"
+"Ouep. Bye. Attention à la marche en sortant."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationNode:text
 msgid "Look buddy, closed is closed, and that's what we are."
-msgstr ""
+msgstr "Ecoute mon pote, fermé c'est fermé, et c'est ce qu'on est."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationNode:text
 msgid ""
@@ -9979,10 +10104,13 @@ msgid ""
 "\n"
 "Closed is closed, and that's what we are."
 msgstr ""
+"Il n'y a personne au dessus de moi, mon pote. Alors lâches l'affaire.\n"
+"\n"
+"Fermé c'est fermé, et c'est ce qu'on est."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationNode:text
 msgid "I told you before, pal. The hotel is *closed.*"
-msgstr ""
+msgstr "Je te l'ai déjà dit, mon gars. L'hôtel est *fermé*."
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationNode:text
 msgid ""
@@ -9991,6 +10119,10 @@ msgid ""
 "\n"
 "*What?*"
 msgstr ""
+"{{GM}}Frank détache les yeux de l'elfe se trémoussant et vous dévisage, une "
+"expression irritée sur le visage.{{/GM}}\n"
+"\n"
+"*Quoi encore?*"
 
 #: /data/convos/5241c1dc3030314c16003ee6.convo:ConversationNode:text
 msgid ""
@@ -46626,7 +46758,7 @@ msgstr ""
 "{{GM}}Il lève les yeux, vous inspecte rapidement, et soupire.{{/GM}}\n"
 "\n"
 "Bienvenue au Das Kesselhaus, subissant un changement de direction. Encore "
-"une fois.\n"
+"une fois."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid ""
@@ -46777,7 +46909,7 @@ msgstr ""
 "J'en ai aucune idée. \n"
 "\n"
 "C'est Frank qui surveille la piste de danse ce soir. Demande lui. Mais "
-"n'espères aucune réponse de sa part.\n"
+"n'espères aucune réponse de sa part."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid ""
@@ -46795,7 +46927,7 @@ msgstr ""
 "\n"
 "L'hôtel est fermé. Pour rénovations.\n"
 "\n"
-"Tu cherches un endroit où te poser? Va voir ailleurs.\n"
+"Tu cherches un endroit où te poser? Va voir ailleurs."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationLink:responsetext
 msgid "I really need to get up there. Can you help me out?"
@@ -46922,7 +47054,7 @@ msgstr ""
 "Ecoutes. Je vais te dire. Si tu veux une chambre et que tu peux payer - et "
 "je dis bien PAYER - va voir Frank. Il pourra te dépanner.\n"
 "\n"
-"Tu le trouveras dans la loge VIP, juste sur ta droite.\n"
+"Tu le trouveras dans la loge VIP, juste sur ta droite."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid "Just leave me out of it."
