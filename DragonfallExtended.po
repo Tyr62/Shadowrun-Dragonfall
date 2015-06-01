@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Shadowrun Dragonfall Fr\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-27 13:44+0100\n"
-"PO-Revision-Date: 2015-06-01 16:57+0100\n"
+"PO-Revision-Date: 2015-06-01 17:09+0100\n"
 "Language-Team: nbrunet62\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -6226,6 +6226,10 @@ msgid ""
 "\n"
 "A numbered entry keypad glows softly on the door frame."
 msgstr ""
+"C'est une porte standard d'hôtel, verrouillé avec un simple mécanisme de "
+"verrouillage hydraulique.\n"
+"\n"
+"Un clavier numérique brille doucement sur le montant de la porte."
 
 #: /data/convos/5257103e6636616811001452.convo:ConversationLink:responsetext
 #: /data/items/a1_hotel_s1-keycode_room405.item:UIRep:description
@@ -6237,7 +6241,7 @@ msgstr "1989"
 #: /data/convos/525864726636614001005a34.convo:ConversationNode:text
 #: /data/convos/5351946a3234372c2a007c39.convo:ConversationNode:text
 msgid "The door unlocks."
-msgstr ""
+msgstr "La porte se déverrouille."
 
 #: /data/convos/5273f3d13030316c100000ba.convo:ConversationNode:text
 #: /data/convos/52740b583030316c100000cc.convo:ConversationNode:text
@@ -84118,6 +84122,10 @@ msgid ""
 "\n"
 "A numbered entry keypad glows softly on the door frame."
 msgstr ""
+"C'est une porte de salle de bain rayée et cabossée, verrouillée avec un "
+"simple mécanisme de verrouillage hydraulique.\n"
+"\n"
+"Un clavier numérique brille doucement sur le montant de la porte."
 
 #: /data/convos/5255e530663661e81a00067a.convo:ConversationLink:responsetext
 #: /data/items/a1_hotel_s1-keycode_floor3bathroom.item:UIRep:description
@@ -95255,12 +95263,15 @@ msgstr ""
 #: /data/convos/52b361a36636618801007e31.convo:ConversationNode:text
 msgid "The panel appears to be wired into the physical security in some way."
 msgstr ""
+"Le panneau semble être câblé dans la sécurité physique d'un certaine façon."
 
 #: /data/convos/52b361a36636618801007e31.convo:ConversationLink:responsetext
 msgid ""
 "{{CC}}Drone Control: 3{{/CC}} Send self-destruct codes to the automated "
 "security."
 msgstr ""
+"{{CC}}Contrôle de drone: 3{{/CC}} Envoyer les codes d'auto destruction à la "
+"sécurité automatisée."
 
 #: /data/convos/525d7598663661ac04001e51.convo:ConversationNode:text
 msgid ">>FILCO Dyna-Safe Computer Control System v 2.5"
@@ -102086,6 +102097,11 @@ msgid ""
 "\n"
 "A nameplate in the frame reads \"HARZ MOUNTAINS 2011.\""
 msgstr ""
+"Une grande peinture, somptueusement encadrée, est accrochée au mur. Un "
+"paysage impressionniste, maladroitement rendu dans des taches d'acrylique "
+"bon marché.\n"
+"\n"
+"Une plaque signalétique sur la peinture indique \"HARZ MOUNTAINS 2011.\""
 
 #: /data/convos/5257185066366168110014a6.convo:ConversationNode:text
 msgid ""
@@ -102095,6 +102111,12 @@ msgid ""
 "The last two discs in the bundle are stuck together, and when you try to pry "
 "them apart, the readable surface of the bottom disc peels away."
 msgstr ""
+"Le disque marqué du \"REGARDEZ MOI\" semble presque récent. Les autres sont "
+"nettement plus anciens, et pas mal d'entre eux sont salement rayés.\n"
+"\n"
+"Les deux derniers disques dans la pile sont collés ensemble, et quand vous "
+"essayez de les décoller, la surface lisible s'écaille du dernière s'étiole "
+"en lambeau."
 
 #: /data/items/fist 1 spiked fist (pummelo).item:UIRep:description
 msgid ""
@@ -104576,14 +104598,16 @@ msgstr ""
 msgid ""
 "The drone appears to be broken. All it can seem to do is hover in place."
 msgstr ""
+"Le drone semble être cassé. Tout ce qu'il semble pouvoir faire, s'est planer "
+"sur place."
 
 #: /data/convos/5265c706663661d824002592.convo:ConversationLink:responsetext
 msgid "{{GM}}Take the drone.{{/GM}}"
-msgstr ""
+msgstr "{{GM}}Prendre le drone.{{/GM}}"
 
 #: /data/convos/5265c706663661d824002592.convo:ConversationLink:responsetext
 msgid "{{GM}}Leave it.{{/GM}}"
-msgstr ""
+msgstr "{{GM}}Le laisser.{{/GM}}"
 
 #: /data/convos/53603ce230303164050008c3.convo:ConversationNode:text
 msgid ""
