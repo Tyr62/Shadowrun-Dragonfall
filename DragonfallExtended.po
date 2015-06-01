@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Shadowrun Dragonfall Fr\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-27 13:44+0100\n"
-"PO-Revision-Date: 2015-06-01 15:38+0100\n"
+"PO-Revision-Date: 2015-06-01 15:44+0100\n"
 "Language-Team: nbrunet62\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -79684,7 +79684,7 @@ msgstr ""
 #: /data/convos/52857f646261647c0b0050ea.convo:ConversationLink:responsetext
 #: /data/convos/522e60066636613818004c7b.convo:ConversationLink:responsetext
 msgid "{{GM}}Stay on this floor.{{/GM}}"
-msgstr ""
+msgstr "{{GM}}Rester à cet étage.{{/GM}}"
 
 #: /data/convos/526035556361341023004800.convo:ConversationNode:text
 msgid "Knew you'd come. I've always been a good judge of character."
@@ -106251,34 +106251,42 @@ msgid ""
 "\n"
 "It would appear that cleanliness isn't a high priority for the hotel staff."
 msgstr ""
+"L'ascenseur semble être en bon état - techniquement parlant. C'est à peu "
+"près tout ce qu'il a pour lui.\n"
+"\n"
+"Emballages de bonbons et seringues usagées jonchent le sol, et les "
+"balustrades sont inexplicablement collantes.\n"
+"\n"
+"Il semblerait que la propreté ne soit pas la priorité numéro un du personnel "
+"de l'hôtel."
 
 #: /data/convos/522e60066636613818004c7b.convo:ConversationLink:responsetext
 msgid "{{GM}}Ground floor: Club.{{/GM}}"
-msgstr ""
+msgstr "{{GM}}Rez de chaussée: Le club.{{/GM}}"
 
 #: /data/convos/522e60066636613818004c7b.convo:ConversationLink:responsetext
 msgid "{{GM}}First floor: Hotel.{{/GM}}"
-msgstr ""
+msgstr "{{GM}}Premier étage: Hôtel.{{/GM}}"
 
 #: /data/convos/522e60066636613818004c7b.convo:ConversationLink:responsetext
 msgid "{{GM}}Second floor: Employees Only.{{/GM}}"
-msgstr ""
+msgstr "{{GM}}Second étage: Réservé aux employés.{{/GM}}"
 
 #: /data/convos/522e60066636613818004c7b.convo:ConversationLink:responsetext
 msgid "{{GM}}Third floor: Hotel.{{/GM}}"
-msgstr ""
+msgstr "{{GM}}Troisième étage: Hôtel.{{/GM}}"
 
 #: /data/convos/522e60066636613818004c7b.convo:ConversationLink:responsetext
 msgid "{{GM}}Fourth floor: Hotel.{{/GM}}"
-msgstr ""
+msgstr "{{GM}}Quatrième étage: Hôtel.{{/GM}}"
 
 #: /data/convos/522e60066636613818004c7b.convo:ConversationLink:responsetext
 msgid "{{GM}}Top floor: Penthouse Suite.{{/GM}}"
-msgstr ""
+msgstr "{{GM}}Dernier étage: Suite Penthouse.{{/GM}}"
 
 #: /data/convos/522e60066636613818004c7b.convo:ConversationNode:text
 msgid "The elevator panel awaits your selection."
-msgstr ""
+msgstr "Le panneau d'ascenseur attend votre sélection."
 
 #: /data/abilities/activate adrenal pump (glory)
 #: (extended).ab:UIRep:description
