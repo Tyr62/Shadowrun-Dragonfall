@@ -1,6 +1,8 @@
 # Shadowrun-Dragonfall
 Branche principale de la traduction en français de Dragonfall
 
+Fichier de traduction : http://tyr62.com/DragonfallExtended.html
+
 Avancée de la traduction des conversations:
 a1_Haven_s1-AmselPostIntro
 a1_Intro_s1-IntroWithLeader
