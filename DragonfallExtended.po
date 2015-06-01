@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Shadowrun Dragonfall Fr\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-27 13:44+0100\n"
-"PO-Revision-Date: 2015-06-01 11:15+0100\n"
+"PO-Revision-Date: 2015-06-01 14:25+0100\n"
 "Language-Team: nbrunet62\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -9720,6 +9720,11 @@ msgid ""
 "\n"
 "{{GM}}He turns back to the dancer.{{/GM}}"
 msgstr ""
+"{{GM}}Il vous regarde suspicieusement.{{/GM}}\n"
+"\n"
+"Si je le vois, je lui ferai savoir que tu le recherches.\n"
+"\n"
+"{{GM}}Il se retourne vers les danseurs.{{/GM}}"
 
 #: /data/convos/525c4b3e6636611c07003bb3.convo:ConversationNode:text
 msgid ""
@@ -46604,6 +46609,11 @@ msgid ""
 "Despite the pounding music and the writhing bodies, his face is buried in a "
 "comic book."
 msgstr ""
+"Le troll travaillant à la porte d'entrée doit être le plus petit que vous "
+"n'avez vu. Et le plus épais.\n"
+"\n"
+"Malgré la forte musique et les corps se contorsionnant sur la piste, son "
+"visage est concentré sur une bande dessinée."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid ""
@@ -46613,6 +46623,10 @@ msgid ""
 "\n"
 "There's no cover. Just go on in and get your fix."
 msgstr ""
+"{{GM}}Il lève les yeux, vous inspecte rapidement, et soupire.{{/GM}}\n"
+"\n"
+"Bienvenue au Das Kesselhaus, subissant un changement de direction. Encore "
+"une fois.\n"
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid ""
@@ -46624,22 +46638,29 @@ msgid ""
 "\n"
 "Just play nice, or you'll meet Herr Zapp. "
 msgstr ""
+"C'est Kroner au bar là-bas. Il s'occupera de vous.\n"
+"\n"
+"{{GM}}Il replonge le nez dans sa bande dessinée tout en tapant un pouce "
+"charnue sur le plastique noir en bandoulière de sa ceinture. Un pistolet "
+"paralysant haute puissance.\n"
+"\n"
+"Restez cool, ou vous ferez la rencontre de Herr Zapp."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid "Have fun. "
-msgstr ""
+msgstr "Bon amusement."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationLink:responsetext
 msgid "I'm looking for someone. Maybe you know him."
-msgstr ""
+msgstr "Je suis à la recherche d'une personne. Peut-être que tu la connais."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationLink:responsetext
 msgid "This is a hotel, right? I want a room."
-msgstr ""
+msgstr "C'est un hôtel, non? Je voudrais une chambre."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationLink:responsetext
 msgid "No need for Herr Zapp. I'm just here to party."
-msgstr ""
+msgstr "Pas besoin de Herr Zapp. Je suis juste la pour faire la fête."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid ""
@@ -46650,20 +46671,28 @@ msgid ""
 "This place is filled with interesting people just dying to meet you. So go "
 "meet 'em."
 msgstr ""
+"{{GM}}Il ne relève même pas le nez de sa bande dessinée.{{/GM}}\n"
+"\n"
+"J'en doute.\n"
+"\n"
+"Cet endroit est rempli de personnes intéressantes qui meurent d'envie de te "
+"rencontrer. Alors va les voir."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationLink:responsetext
 msgid "His name's Green Winters. Know him?"
-msgstr ""
+msgstr "Son nom est Green Winters. Ca te parle?"
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationLink:responsetext
 msgid ""
 "He's supposed to be some sort of F-State activist. Calls himself Green "
 "Winters."
 msgstr ""
+"Il est sensé être une sorte d'activiste du F-State. Il se surnomme Green "
+"Winters."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationLink:responsetext
 msgid "Think any of these \"interesting people\" might know him?"
-msgstr ""
+msgstr "Tu penses que ces \"personnes intéressantes\" pourraient le connaître?"
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid ""
@@ -46677,6 +46706,15 @@ msgid ""
 "\n"
 "That's it. That's all I do."
 msgstr ""
+"Non.\n"
+"\n"
+"{{GM}}Il pose sa bande dessinée, et sa voix se réduit à un murmure. Il prend "
+"soins de prononcer distinctement chaque mot.{{/GM}}\n"
+"\n"
+"Je signale aux gens l'emplacement du bar. Si quelqu'un commence à chercher "
+"des noises, je lui présente Herr Zapp.\n"
+"\n"
+"C'est tout. C'est tout ce que je fais."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid ""
@@ -46684,18 +46722,21 @@ msgid ""
 "\n"
 "An F-State activist? Why didn't you say so?"
 msgstr ""
+"{{GM}}Vous captez son attention.{{/GM}}\n"
+"\n"
+"Un activiste du F-State? Pourquoi ne pas l'avoir dit plus tôt?"
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationLink:responsetext
 msgid "You know him?"
-msgstr ""
+msgstr "Tu le connais?"
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationLink:responsetext
 msgid "Know where I can find him?"
-msgstr ""
+msgstr "Tu sais où je peux le trouver?"
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationLink:responsetext
 msgid "Maybe you could introduce me?"
-msgstr ""
+msgstr "Tu pourrais nous organiser une rencontre?"
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid ""
@@ -46711,6 +46752,17 @@ msgid ""
 "\n"
 "That's it. That's all I do."
 msgstr ""
+"{{GM}}Son attention retombe à nouveau.{{/GM}}\n"
+"\n"
+"Non.\n"
+"\n"
+"{{GM}}Il pose sa bande dessinée, et sa voix se réduit à un murmure. Il prend "
+"soins de prononcer distinctement chaque mot.{{/GM}}\n"
+"\n"
+"Je signale aux gens l'emplacement du bar. Si quelqu'un commence à chercher "
+"des noises, je lui présente Herr Zapp.\n"
+"\n"
+"C'est tout. C'est tout ce que je fais."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid ""
@@ -46720,6 +46772,12 @@ msgid ""
 "\n"
 "Frank's watching the floor tonight. Ask him. Just don't expect an answer."
 msgstr ""
+"{{GM}}Le troll soupire.{{/GM}}\n"
+"\n"
+"J'en ai aucune idée. \n"
+"\n"
+"C'est Frank qui surveille la piste de danse ce soir. Demande lui. Mais "
+"n'espères aucune réponse de sa part.\n"
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid ""
@@ -46731,19 +46789,28 @@ msgid ""
 "\n"
 "You want somewhere to crash? Go somewhere else."
 msgstr ""
+"{{GM}}Ses yeux ne quittent même pas sa bande dessinée.{{/GM}}\n"
+"\n"
+"Est-ce-que je ressemble à un gratte papier?\n"
+"\n"
+"L'hôtel est fermé. Pour rénovations.\n"
+"\n"
+"Tu cherches un endroit où te poser? Va voir ailleurs.\n"
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationLink:responsetext
 msgid "I really need to get up there. Can you help me out?"
-msgstr ""
+msgstr "J'ai vraiment besoin de monter là-haut. Tu peux surement m'aider?"
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationLink:responsetext
 msgid ""
 "Maybe you could take a room deposit now. You know, for when it opens again. "
 msgstr ""
+"Tu pourrais peut-être prendre un acompte pour la chambre maintenant. Tu "
+"sais, pour quand ca sera de nouveau ouvert?"
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationLink:responsetext
 msgid "I booked a reservation last week! What's the problem?"
-msgstr ""
+msgstr "J'ai appelé pour réserver la semaine dernière. C'est quoi le problème?"
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid ""
@@ -46757,32 +46824,47 @@ msgid ""
 "\n"
 "That's it. That's all I do."
 msgstr ""
+"Pas vraiment, non.\n"
+"\n"
+"{{GM}}Il pose sa bande dessinée, et sa voix se réduit à un murmure. Il prend "
+"soins de prononcer distinctement chaque mot.{{/GM}}\n"
+"\n"
+"Je signale aux gens l'emplacement du bar. Si quelqu'un commence à chercher "
+"des noises, je lui présente Herr Zapp.\n"
+"\n"
+"C'est tout. C'est tout ce que je fais."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid "Now, what's it gonna be? The bar or Herr Zapp?"
-msgstr ""
+msgstr "Maintenant, qu'est-ce-que ca sera pour toi? Le bar ou Herr Zapp?"
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationLink:responsetext
 msgid "Anyone else feel like a drink?"
-msgstr ""
+msgstr "Quelqu'un à envie d'un verre?"
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationLink:responsetext
 msgid ""
 "{{CC}}Summoning: 3{{/CC}} How about option three? You drop the attitude, or "
 "one of my spirit friends drops you."
 msgstr ""
+"{{CC}}Invocation: 3{{/CC}} Et l'option trois? Tu changes d'attitude, ou un "
+"de mes compagnons spirituels le fera pour toi."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationLink:responsetext
 msgid ""
 "{{CC}}Strength: 5{{/CC}} Look in my eyes, sweetheart. You really wanna go "
 "down this road?"
 msgstr ""
+"{{CC}}Force: 5{{/CC}} Regardes moi dans les yeux, mon chou. Tu as vraiment "
+"envie de t'engager sur ce chemin?"
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationLink:responsetext
 msgid ""
 "{{CC}}Etiquette: Gang{{/CC}} I hear you, big man. But this is biz, you feel "
 "me?"
 msgstr ""
+"{{CC}}Etiquette: Gang{{/CC}} J'ai entendu, mon grand. Mais c'est pour le "
+"taf, tu me suis?"
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid ""
@@ -46791,6 +46873,10 @@ msgid ""
 "{{GM}}He returns to his comic book, licks a thick finger, and turns the page."
 "{{/GM}}"
 msgstr ""
+"Bonne fin de soirée. Et faites attention à vous.\n"
+"\n"
+"{{GM}}Il replonge dans sa bande dessinée, se lèche un doigt épais, et tourne "
+"une page.{{/GM}}"
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid ""
@@ -46801,6 +46887,12 @@ msgid ""
 "\n"
 "We don't want any shaman trouble."
 msgstr ""
+"{{GM}}Il se redresse. Pour la première fois, vous avez toute son attention."
+"{{/GM}}\n"
+"\n"
+"Whoua, c'est... whoa. Je suis désolé. Je n'avais pas réalisé.\n"
+"\n"
+"Nous ne voulons aucun problème avec un chaman."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid ""
@@ -46809,6 +46901,10 @@ msgid ""
 "\n"
 "Just don't go putting a hex on me or anything, okay?"
 msgstr ""
+"Ecoutes. Je vais te dire. Si tu veux une chambre et que tu peux payer - et "
+"je dis bien PAYER - va voir Frank. Il pourra te dépanner.\n"
+"\n"
+"S'il te plait, ne me maudit ou quoi que ce soit, d'accord?"
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid ""
@@ -46820,10 +46916,17 @@ msgid ""
 "\n"
 "You'll find him on the VIP Lounge, way back there on your right."
 msgstr ""
+"{{GM}}La main du videur se resserre sur la crosse de son pistolet Taser. "
+"Puis il vous jette un œil, soupire, et la laisse retomber.{{/GM}}\n"
+"\n"
+"Ecoutes. Je vais te dire. Si tu veux une chambre et que tu peux payer - et "
+"je dis bien PAYER - va voir Frank. Il pourra te dépanner.\n"
+"\n"
+"Tu le trouveras dans la loge VIP, juste sur ta droite.\n"
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid "Just leave me out of it."
-msgstr ""
+msgstr "Laisses moi simplement en dehors de ça."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid ""
@@ -46831,12 +46934,17 @@ msgid ""
 "\n"
 "What kind of biz?"
 msgstr ""
+"{{GM}}Il vous regarde suspicieusement.{{/GM}}\n"
+"\n"
+"Quelle sorte de taf?"
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationLink:responsetext
 msgid ""
 "The kind that makes people rich. Point me in the direction of the guy who "
 "runs this place. He'll thank you for it."
 msgstr ""
+"Le genre qui rend les gens riches. Indiques moi le bureau du mec qui dirige "
+"cet endroit. Il te remerciera pour ca."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid ""
@@ -46846,10 +46954,15 @@ msgid ""
 "\n"
 "But God help you if he doesn't, understand? God help you."
 msgstr ""
+"Très bien. Si tu veux parler affaire, tu dois aller voir Frank, là-bas sur "
+"le balcon VIP. S'il juge ta proposition intéressante, tu pourras prendre "
+"monter à l'étage.\n"
+"\n"
+"Mais que Dieu t'aide si c'est pas le cas, compris? Que Dieu t'aide."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationLink:responsetext
 msgid "Smart move, pal. You'll see."
-msgstr ""
+msgstr "Sympa, mon pote. On verra bien."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid ""
@@ -46860,15 +46973,23 @@ msgid ""
 "\n"
 "Or don't, and get lost. Your choice."
 msgstr ""
+"{{GM}}Il réfléchit un instant.{{/GM}}\n"
+"\n"
+"200 nuyen. Ici, et maintenant. Donnes moi ça, et je te dirai comment accéder "
+"à l'hôtel.\n"
+"\n"
+"Ou pas, et reste perdu. Ton choix."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationLink:responsetext
 msgid ""
 "{{CC}}¥200{{/CC}} Here you go, chief. Now tell me who I need to talk to."
 msgstr ""
+"{{CC}}¥200{{/CC}} Ils sont à toi, chef. Maintenant, dis moi à qui je dois "
+"parler."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationLink:responsetext
 msgid "That's nuts. Forget it."
-msgstr ""
+msgstr "Mes couilles. Oublies ça."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid ""
@@ -46878,10 +46999,14 @@ msgid ""
 "He's got the only key to the elevator, and he can get you up there. Won't be "
 "cheap, though."
 msgstr ""
+"Va parler à Frank. Il traine sur le balcon VIP, juste sur la droite.\n"
+"\n"
+"Il détient la seule clé pour l'ascenseur, et y'a que lui qui peut vous faire "
+"monter. Ca ne sera pas donné, par contre."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid "So now I look like the concierge?"
-msgstr ""
+msgstr "Alors maintenant je ressemble à un concierge?"
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid ""
@@ -46893,6 +47018,13 @@ msgid ""
 "\n"
 "That's it. That's all I do."
 msgstr ""
+"{{GM}}Sa voix se réduit à un murmure. Il prend soins de prononcer "
+"distinctement chaque mot.{{/GM}}\n"
+"\n"
+"Je signale aux gens l'emplacement du bar. Si quelqu'un commence à chercher "
+"des noises, je lui présente Herr Zapp.\n"
+"\n"
+"C'est tout. C'est tout ce que je fais."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid ""
@@ -46902,18 +47034,23 @@ msgid ""
 "\n"
 "Anything else?"
 msgstr ""
+"{{GM}}Il vous sourit.{{/GM}}\n"
+"\n"
+"C'est génial. Vraiment.\n"
+"\n"
+"Autre chose?"
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationLink:responsetext
 msgid "I was thinking about taking a nap. How 'bout a room?"
-msgstr ""
+msgstr "Je pensais faire une petite sieste. Combien pour une chambre?"
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationLink:responsetext
 msgid "I'm trying to find a friend."
-msgstr ""
+msgstr "J'essai de retrouver un ami."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationLink:responsetext
 msgid "Nope. Guess I'll check the place out."
-msgstr ""
+msgstr "Nope. Je suppose que je vais jeter un œil dans la salle. "
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid ""
@@ -46927,22 +47064,31 @@ msgid ""
 "\n"
 "That's it. That's all I do."
 msgstr ""
+"Et, moi, j'essai de lire çà.\n"
+"\n"
+"{{GM}}Sa voix se réduit à un murmure. Il prend soins de prononcer "
+"distinctement chaque mot.{{/GM}}\n"
+"\n"
+"Je signale aux gens l'emplacement du bar. Si quelqu'un commence à chercher "
+"des noises, je lui présente Herr Zapp.\n"
+"\n"
+"C'est tout. C'est tout ce que je fais."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid "Yeah? Whaddya want?"
-msgstr ""
+msgstr "Ouais? Qu'esses vous voulez ?"
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationLink:responsetext
 msgid "Who do I talk to about getting a room in the hotel?"
-msgstr ""
+msgstr "A qui je dois parler pour obtenir une chambre dans l'hôtel?"
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationLink:responsetext
 msgid "Nah, no problem. Just here to party."
-msgstr ""
+msgstr "Nah, aucun problème. J'suis juste ici pour faire la fête."
 
 #: /data/convos/525c39db6636611c07003b3b.convo:ConversationNode:text
 msgid "Then get back out of my face and go do it."
-msgstr ""
+msgstr "Alors casses toi d'ici et va la faire."
 
 #: /data/chars/blitz_focus_3_a.cvf:CharacterVariant:name
 msgid "Deck Upgrade"
@@ -78526,20 +78672,22 @@ msgstr ""
 
 #: /data/convos/52e18af43234378826002cb0.convo:ConversationNode:text
 msgid "All right, here we go... tap-a-tap-tap..."
-msgstr ""
+msgstr "Okay, nous y sommes... tap-a-tap-tap..."
 
 #: /data/convos/52e18af43234378826002cb0.convo:ConversationNode:text
 msgid "Done! Wait, when did that thing get installed?"
-msgstr ""
+msgstr "Terminé! Attend, quand ce truc a-t-il était installé?"
 
 #: /data/convos/52e18af43234378826002cb0.convo:ConversationNode:text
 msgid "Take cover!"
-msgstr ""
+msgstr "A couvert!"
 
 #: /data/convos/52e18af43234378826002cb0.convo:ConversationNode:text
 msgid ""
 "The turret begins tracking your movement as its targeting sensor turns red."
 msgstr ""
+"La mitrailleuse commence à suivre vos mouvements alors que ses senseurs de "
+"ciblage s'illuminent."
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationNode:text
 msgid ""
