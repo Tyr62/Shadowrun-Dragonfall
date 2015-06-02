@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Shadowrun Dragonfall Fr\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-27 13:44+0100\n"
-"PO-Revision-Date: 2015-06-02 15:05+0100\n"
+"PO-Revision-Date: 2015-06-02 16:01+0100\n"
 "Language-Team: nbrunet62\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -7087,7 +7087,7 @@ msgstr ""
 #: /data/convos/53bb14cf3030316c02003f30.convo:ConversationLink:responsetext
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationLink:responsetext
 msgid "Thanks, but no thanks."
-msgstr ""
+msgstr "Merci, mais non merci."
 
 #: /data/convos/53bb14cf3030316c02003f30.convo:ConversationNode:text
 msgid "We've got the cheapest soykaf in Berlin, guaranteed!"
@@ -22613,7 +22613,7 @@ msgstr ""
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationLink:responsetext
 #: /data/convos/52953f9b636134f028000f21.convo:ConversationLink:responsetext
 msgid "We'll see."
-msgstr ""
+msgstr "On verra ça."
 
 #: /data/convos/52336c1638336110170073fa.convo:ConversationNode:text
 msgid ""
@@ -68745,7 +68745,7 @@ msgstr ""
 
 #: /data/scenes/a1_hotel_s1.srt:TsCall:Display Text over Actor:text
 msgid "Come party with me!"
-msgstr ""
+msgstr "Viens t'éclater avec moi!"
 
 #: /data/scenes/a1_hotel_s1.srt:TsCall:Display Text over Actor:text
 msgid "Well, frag me. There IS a giant bug here."
@@ -79307,18 +79307,23 @@ msgid ""
 "\n"
 "HEY! Hey, good-lookin'! You wanna party?"
 msgstr ""
+"{{GM}}La jeune fille dans le coin a le look typique d'une accro aux amphet', "
+"Yeux sauvages et bourrée d'énergie. Elle vous accueille avec un sourire si "
+"large qu'il en devient grotesque.{{/GM}}\n"
+"\n"
+"HEY! Hey, jolie cœur! Tu veux t'éclater?"
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationLink:responsetext
 msgid "I'm always down to party."
-msgstr ""
+msgstr "Je suis toujours partant pour faire la fête."
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationLink:responsetext
 msgid "With you? Not a chance."
-msgstr ""
+msgstr "Avec toi? Aucune chance."
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationLink:responsetext
 msgid "Excuse me?"
-msgstr ""
+msgstr "Pardon?"
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationNode:text
 msgid ""
@@ -79326,6 +79331,10 @@ msgid ""
 "\n"
 "You've got cram, right? I just *love* a $(l.guy) that's willing to share..."
 msgstr ""
+"Troooop cool! Mon type de $(l.guy)!\n"
+"\n"
+"Tu as du cram, hein? Je déborde *d'amour* pour les $(l.guy) prêt à "
+"partager..."
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationNode:text
 msgid ""
@@ -79333,6 +79342,9 @@ msgid ""
 "\n"
 "Unless you have cram. Hey! Come back if you score some cram!"
 msgstr ""
+"Eh bien, va te faire voir, pauvre tâche!\n"
+"\n"
+"A part si tu as du cram. Hey! Reviens si tu as un peu de cram!"
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationNode:text
 msgid ""
@@ -79341,15 +79353,21 @@ msgid ""
 "You've got some cram, right? I just *love* a $(l.guy) that's willing to "
 "share..."
 msgstr ""
+"Viens t'éclater avec moi!\n"
+"\n"
+"Tu as du cram, hein? Je déborde *d'amour* pour les $(l.guy) prêt à "
+"partager..."
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationLink:responsetext
 msgid ""
 "{{GM}}Give her a bottle of cram.{{/GM}} Sure, why not? The cram's on me."
 msgstr ""
+"{{GM}}Lui donner un inhalateur de cram.{{/GM}} Bien sur, pourquoi pas? Le "
+"cram est pour moi."
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationLink:responsetext
 msgid "Sorry, I'm not carrying any."
-msgstr ""
+msgstr "Désolé, j'ai rien sur moi."
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationNode:text
 msgid ""
@@ -79358,6 +79376,10 @@ msgid ""
 "{{GM}}The girl's hand snakes forward with alarming speed. In the blink of an "
 "eye, she snatches the cram inhaler from your hand.{{/GM}}"
 msgstr ""
+"Heyyy, trop cooool!\n"
+"\n"
+"{{GM}}La main de la jeune femme fond vers vous à une vitesse alarmante. En "
+"un clin d'œil, elle vous arrache l'inhalateur de cram des mains.{{/GM}}"
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationNode:text
 msgid ""
@@ -79367,32 +79389,39 @@ msgid ""
 "\n"
 "Her whole body begins to shiver as the drug kicks in."
 msgstr ""
+"Avec l'aisance de l'habitude, la femme décapsule l'ampoule et la soulève "
+"pour en prendre une dose.  Avec une main expérimentée, elle s'injecte un jet "
+"de liquide orange dans le coin de chaque œil."
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationNode:text
 msgid "Ooh, that is so, *so* much better. I feel... I feel ALIVE again!"
 msgstr ""
+"Ooh, c'est tellement, *tellement* mieux. Je me sens... Je me sens de nouveau "
+"EN VIE!"
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationLink:responsetext
 msgid "So, uh, how long have you been partying here?"
-msgstr ""
+msgstr "Alors, euh, depuis combien de temps tu fais la fête ici?"
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationLink:responsetext
 msgid "How do you like the guys that run this place?"
-msgstr ""
+msgstr "Tu sais quoi sur les types qui dirigent le coin?"
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationLink:responsetext
 msgid "Heard anything about the hotel upstairs?"
-msgstr ""
+msgstr "Tu as entendu quelque chose à propos de l'hôtel à l'étage?"
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationLink:responsetext
 msgid ""
 "I need to get into the hotel. Do you know if anyone down here has a key to "
 "get up there?"
 msgstr ""
+"Je dois rentrer dans cet hôtel. Tu sais si quelqu'un ici à la clé pour "
+"monter à l'étage?"
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationLink:responsetext
 msgid "It's been fun, but I've gotta get going."
-msgstr ""
+msgstr "C'était sympa, mais je vais devoir y aller."
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationNode:text
 msgid ""
@@ -79402,6 +79431,12 @@ msgid ""
 "\n"
 "Y'know?"
 msgstr ""
+"Oh, depuis un sacrée long moment. Je vais là où coule la cram.\n"
+"\n"
+"{{GM}}Elle porte la main à ses lèvres pour étouffer un petit rire aigu.{{/"
+"GM}}\n"
+"\n"
+"Tu vois?"
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationNode:text
 msgid ""
@@ -79410,12 +79445,19 @@ msgid ""
 "\n"
 "But it's not too bad now! It's still got cram, right? Hahahaha!"
 msgstr ""
+"Ouais, c'est vraiment un putain d'endroit! Enfin, c'était encore mieux, "
+"avant le changement de direction.\n"
+"\n"
+"Mais c'est pas si mal maintenant! Y'a toujours du cram, non? Hahahaha!"
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationNode:text
 msgid ""
 "Oh, they're terrible. The worst! Loud, violent drekheads with grabby hands. "
-"But they have the cram, so whatcha gonna do?\n"
+"But they have the cram, so whatcha gonna do?"
 msgstr ""
+"Oh, ils sont terrible. Pire que tout! Costauds, violents, des mochetés avec "
+"les mains baladeuses. Mais ils ont du cram, alors qu'est-ce-qu'on peut y "
+"faire?"
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationNode:text
 msgid ""
@@ -79424,6 +79466,10 @@ msgid ""
 "They had this awesome stuff... it was like, if cram and novacoke had a baby, "
 "that's what it would have been. It was DREAMY."
 msgstr ""
+"Le gang qui contrôlait cet endroit, ILS étaient vraiment chic.\n"
+"\n"
+"Ils avaient un truc fabuleux... c'était comme, si le cram et la novacoke "
+"avaient un bébé, voilà ce que c'était. C'était FANTASTIQUE."
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationNode:text
 msgid ""
@@ -79436,6 +79482,14 @@ msgid ""
 "hotel. I think. Or maybe it was a giant bug? Is that the story I'm thinking "
 "of? I don't remember."
 msgstr ""
+"Oh, ouais! Beaucoup, beaucoup, beaucoup de personnes disent qu'il est hanté! "
+"On raconte qu'il y a une petite fille qui est morte dans une des chambre au "
+"début des années 2000. Je crois, qu'elle s'est, comme, noyée? Où étouffée! "
+"Ou peut-être qu'elle est tombée par la fenêtre.\n"
+"\n"
+"Oh, non, attends. Je me trompe totalement. C'était un petit garçon! Enfin "
+"bref, il hante l'hôtel. Je crois. Où peut-être que c'était un insecte géant? "
+"C'est à cette histoire que je pensais? Je m'en souviens pas."
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationNode:text
 msgid ""
@@ -79446,6 +79500,13 @@ msgid ""
 "\n"
 "Things were kinda wild before the new gang took over."
 msgstr ""
+"Oh! Et je me souviens avoir entendu des histoires à propos d'un troll cinglé "
+"se baladant en sous vêtements.\n"
+"\n"
+"Je ne crois pas qu'il avait un nom. Il se baladait juste en cassant des "
+"trucs.\n"
+"\n"
+"C'était juste avant que le nouveau gang prenne d'assaut les lieux."
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationNode:text
 msgid ""
@@ -79458,12 +79519,22 @@ msgid ""
 "Just be careful, okay? The guy is, like, a SERIOUS sleaze. I'd give just "
 "about anything to see somebody put him in his place."
 msgstr ""
+"Frank.\n"
+"\n"
+"{{GM}}Son visage se tord en une expression exagérée de dégout.{{/GM}}\n"
+"\n"
+"Tu devrais parler à Frank. Il est la bas, sur le balcon des VIP.\n"
+"\n"
+"Sois prudent, okay? Ce type, c'est un VERITABLE psychopathe.  Je donnerai "
+"n'importe quoi pour qu'il y ai quelqu'un d'autre à sa place."
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationNode:text
 msgid ""
 "Oh, okay baby! You come on back any time! Just bring more cram when you do, "
 "okay?"
 msgstr ""
+"Oh, okay chérie! Tu reviens quand tu veux! Apportes moi juste un peu plus de "
+"cram si c'est le cas, okay?"
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationNode:text
 msgid ""
@@ -79471,18 +79542,21 @@ msgid ""
 "\n"
 "I'll be waiting!"
 msgstr ""
+"Eh bien, alors, va en chercher, okay? Au bar!\n"
+"\n"
+"Je t'attends!"
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationLink:responsetext
 msgid "Sure, I'll be right back."
-msgstr ""
+msgstr "Bien sur, je reviens de suite."
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationLink:responsetext
 msgid "Get your own."
-msgstr ""
+msgstr "Vas y toi même."
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationNode:text
 msgid "Your loss, sweetheart."
-msgstr ""
+msgstr "Tant pis pour toi, jolie cœur."
 
 #: /data/convos/5261d0f96361348409001bcb.convo:ConversationNode:text
 msgid ""
@@ -79490,6 +79564,9 @@ msgid ""
 "\n"
 "You got that cram yet?"
 msgstr ""
+"Hey! Jolie cœur! tu es de retour!\n"
+"\n"
+"Tu as ramené du cram?"
 
 #: /data/convos/536e77cd373937481a004520.convo:ConversationNode:text
 msgid ""
