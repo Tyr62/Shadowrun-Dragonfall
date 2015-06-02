@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Shadowrun Dragonfall Fr\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-27 13:44+0100\n"
-"PO-Revision-Date: 2015-06-01 17:09+0100\n"
+"PO-Revision-Date: 2015-06-02 15:05+0100\n"
 "Language-Team: nbrunet62\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1043,7 +1043,7 @@ msgstr ""
 "A la lumière de ces évènements traumatiques, est-il surprenant que le Dr "
 "Vauclair et Aile de feu aient été oublié?\n"
 "\n"
-"Les dragons étaient de l'histoire ancienne."
+"Le retour des dragons, c'était déjà une nouvelle périmée."
 
 #: /data/convos/52449597346238a0240049c3.convo:ConversationNode:text
 msgid ""
@@ -58057,25 +58057,27 @@ msgstr ""
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid "Oh, hey again. What's up?"
-msgstr ""
+msgstr "Oh, hey rebonjour. Quoi de neuf?"
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid "Have you found my stuff yet? I really need that money..."
-msgstr ""
+msgstr "Tu as trouvé mes affaires? J'ai vraiment besoin de cet argent..."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid "When I do, you'll be the first to know it."
-msgstr ""
+msgstr "Quand je les aurai, tu seras la première à le savoir."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid ""
 "{{CC}}Charisma: 3{{/CC}} I have it, but I think I deserve some credits for "
 "my efforts."
 msgstr ""
+"{{CC}}Charisme: 3{{/CC}} Je les ai, mais je pense que je mérite quelques "
+"crédits pour la peine."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid "{{GM}}Hand her belongings over.{{/GM}} Here you go."
-msgstr ""
+msgstr "{{GM}}Lui rendre ses affaires.{{/GM}} Et voila."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58087,6 +58089,13 @@ msgid ""
 "She presses it to your credstick, and 100 nuyen is instantly transferred "
 "from her account to yours.{{/GM}}"
 msgstr ""
+"Okay, okay, oui... oui, je peux t'en filer un peu.\n"
+"\n"
+"{{GM}}Elle presse son pouce sur le créditube crypté que vous avez récupéré "
+"pour elle, et celui ci s'allume. \n"
+"\n"
+"Elle le presse ensuite sur votre propre créditube, et 100 nuyen sont "
+"instantanément tranféré sur votre compte.{{/GM}}"
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58098,10 +58107,17 @@ msgid ""
 "Thank you again, so much. I don't think I'd ever have seen this stuff again "
 "if it weren't for you."
 msgstr ""
+"Voila, c'est fait.\n"
+"\n"
+"{{GM}}Elle pousse un soupir de soulagement, puis inspecte les objets que "
+"vous lui avez ramené. {{/GM}}\n"
+"\n"
+"Merci encore, vraiment. Je ne pense pas que j'aurai pu les récupérer si tu "
+"n'avais pas été là."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid "You wouldn't have."
-msgstr ""
+msgstr "C'est sûr"
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58112,6 +58128,13 @@ msgid ""
 "\n"
 "Enjoy the money... you earned it."
 msgstr ""
+"{{GM}}Elle balance, de nouveau, un regard au créditube crypté dans sa main, "
+"vérifiant le solde. Son sourire s'élargit.{{/GM}}\n"
+"\n"
+"Tu m'as aidé quand personne d'autre ne le faisait. Ca représente beaucoup "
+"pour moi.\n"
+"\n"
+"Profites de l'argent... tu l'as gagné."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58121,6 +58144,11 @@ msgid ""
 "\n"
 "And you didn't just walk off with them?"
 msgstr ""
+"Vraiment? Tu es réellement allé là-bas et tu as récupéré mes affaires?\n"
+"\n"
+"{{GM}}Elle regarde les objets dans ses mains, incrédule.{{/GM}}\n"
+"\n"
+"Et tu ne comptes pas te barrer avec?"
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58133,6 +58161,14 @@ msgid ""
 "\n"
 "Thank you."
 msgstr ""
+"Wow. Hum, merci. Quand tu as dit que tu allez là-haut les chercher, je "
+"pensais pas...\n"
+"\n"
+"J'ai juste...\n"
+"\n"
+"{{GM}}Sa lèvre commence à trembler.{{/GM}}\n"
+"\n"
+"Merci."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58143,6 +58179,11 @@ msgid ""
 "...Hurry back, okay? Room 304, don't forget. I could really, REALLY use that "
 "money."
 msgstr ""
+"Oui, okay, ca marche. Mais, euh...\n"
+"\n"
+"{{GM}}Elle se mord la lèvre et déglutie.{{/GM}}\n"
+"...dépeches toi, okay? Chambre 304, n'oublies pas. J'ai vraiment, VRAIMENT "
+"besoin de cet argent."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58154,6 +58195,13 @@ msgid ""
 "Wish I could get my stuff back from my room first, though. Stupid gang, "
 "closing the whole hotel."
 msgstr ""
+"{{GM}}Silke vous regarde.  Là où vous aviez l'habitude de ne voir que de la "
+"douleur, maintenant il y a autre chose de visible. La détermination.{{/GM}}\n"
+"\n"
+"Je vais vraiment le faire. Je prends le prochain train pour le Kreuzbasar.\n"
+"\n"
+"J'aurai aimé récupérer mes affaires dans ma chambre avant. Stupide gang, "
+"fermer tout l'hôtel."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58164,26 +58212,38 @@ msgid ""
 "\n"
 "I've got problems to deal with."
 msgstr ""
+"{{GM}}Silke vous regarde, un regard empli d'un misère absolue plâtré sur son "
+"visage.{{/GM}}\n"
+"\n"
+"Laisses moi tranquille, okay?\n"
+"\n"
+"J'ai mes propres problèmes à gérer."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid ""
 "Sounds like the \"new management\" stole your property. Answer some "
 "questions for me, and I'll help you get it back."
 msgstr ""
+"On dirait que la \"nouvelle direction\" a volé tes affaires. Réponds à "
+"quelques questions pour moi, et je pourrais t'aider à les récupérer."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid "Kroner is a drekstain. I'll hook you up with some cram, free of charge."
 msgstr ""
+"Kroner est une pauvre merde. Je peux te dépanner avec un peu de cram, "
+"gratuitement."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid ""
 "A cram habit is a rough thing to shake. I know a place that can help you get "
 "clean, if you're interested."
 msgstr ""
+"La dépendance au cram est une chose difficile à vaincre. Je connais un "
+"endroit qui peut t'aider à t'en purger, si ca t'intéresse."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid "I'm going. Take care of yourself."
-msgstr ""
+msgstr "J'y vais. Prend soins de toi."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58194,14 +58254,20 @@ msgid ""
 "I really need that money, and I left some things in there, too. Y'know, "
 "personal stuff."
 msgstr ""
+"Vraiment? Ca serait... bien, ca serait génial.\n"
+"\n"
+"{{GM}}Ses lèvres se tordent en un vague sourire.{{/GM}}\n"
+"\n"
+"J'ai vraiment besoin de mon argent, et j'ai laissé quelques trucs là-haut "
+"aussi. Tu sais, objets personnels."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid "I can be very discreet."
-msgstr ""
+msgstr "Je peux être très discret."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid "On second thought, I don't think that I have time for this."
-msgstr ""
+msgstr "A la réflexion, je ne pense pas avoir le temps pour ça."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58212,30 +58278,36 @@ msgid ""
 "\n"
 "I'll be waiting right here when you get back down."
 msgstr ""
+"Mes affaires devraient être dans la chambre 304. C'est là que Moi, Nadja et "
+"Sara on vivaient, jusqu'à ce que...\n"
+"\n"
+"Enfin, tu vois.\n"
+"\n"
+"Je vais attendre ici que vous reveniez."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid "So, uh, what did you need to know?"
-msgstr ""
+msgstr "Donc, euh, qu'est-ce-que tu veux savoir?"
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid "I need to get up to the hotel. Any idea who I'd talk to about that?"
-msgstr ""
+msgstr "Je dois monter dans l'hôtel. Une idée à qui je devrais parler pour ça?"
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid "Tell me whatever you can about the gang that's taken over the hotel."
-msgstr ""
+msgstr "Dis moi ce que tu penses du gang qui  à pris le contrôle de l'hôtel."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid "Have you heard of a guy named Green Winters?"
-msgstr ""
+msgstr "Un type nommé Green Winters, ca te dit quelque chose?"
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid "What can you tell me about the layout of the hotel?"
-msgstr ""
+msgstr "Qu'est-ce-que tu peux me dire à propos de l'agencement de l'hôtel?"
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid "Thanks, you've been very helpful."
-msgstr ""
+msgstr "Merci, tu as été très utile."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58246,6 +58318,13 @@ msgid ""
 "He's over there, on the VIP balcony. See the greasy jackass in the oversized "
 "suit? The one drooling all over that table dancer? That's Frank."
 msgstr ""
+"Tu peux en parler à Frank. C'est le manager ici. Il a une clé de "
+"l'ascenseur.\n"
+"\n"
+"{{GM}}Elle montre l'extrémité nord du club.\n"
+"\n"
+"Il est par là, sur le balcon des VIP. Tu vois l'abruti graisseux dans le "
+"costumer trop large? Celui bavant partout devant la danseuse? C'est Frank."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58258,6 +58337,14 @@ msgid ""
 "The new guys killed 'em all when they took over. Now I'm stuck dealing with "
 "assholes like Kroner."
 msgstr ""
+"Sales types. Je veux dire, *vraiment* méchants.\n"
+"\n"
+"Le gang qui tenait l'endroit était pas si mal... Ils ont continué à écouler "
+"du Cram, et les prix étaient pas trop élevés. Ils m'ont jamais emmerdés tant "
+"que je continuais à acheter.\n"
+"\n"
+"Les nouveaux les ont tous butés quand ils ont pris la place. Maintenant, je "
+"suis obligé de traiter avec des connards comme Kroner."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58267,6 +58354,11 @@ msgid ""
 "I haven't seen her since the takeover, but he won't stop asking me about "
 "her. Guy's a real creep."
 msgstr ""
+"Le manager, Frank, a le béguin pour ma copine Sara. Il continu à lui faire "
+"du rentre dedans, même si elle l'a envoyé bouler plein de fois.\n"
+"\n"
+"Je ne l'ai pas revu depuis la prise de contrôle, mais il n'arrête pas de me "
+"poser des questions sur elle. Ce type est un vrai tordu."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58277,6 +58369,13 @@ msgid ""
 "\n"
 "I shouldn't have to tell you why."
 msgstr ""
+"C'est tout ce qui me vient à l'esprit. Je me tiens à l'écart des nouveaux "
+"gars dès que je peux.\n"
+"\n"
+"{{GM}}Elle jette un coup d'œil par dessus son épaule vers Kroner, une "
+"grimace sur son visage. {{/GM}}\n"
+"\n"
+"Je ne pense pas devoir te dire pourquoi."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58286,6 +58385,11 @@ msgid ""
 "\n"
 "I remember because his name sounds like a kind of chewing gum."
 msgstr ""
+"Non, je pense pas...\n"
+"\n"
+"Oh, attends un peu, ouais. Je suis tombé sur lui ici y'a quelques jours.\n"
+"\n"
+"Je m'en souviens parce que son nom ressemblait à une marque de chewing gum."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58295,6 +58399,11 @@ msgid ""
 "I'm pretty sure that there're still some people up there - the ones that the "
 "gangers missed. I hear they locked themselves in. "
 msgstr ""
+"Je ne me rappelle pas l'avoir vu partir, alors il est probablement terré "
+"dans sa chambre.\n"
+"\n"
+"Je suis quasiment sûre qu'il y a encore des gens là-haut - ceux que les "
+"gangers ont loupé. Il parait qu'ils se sont enfermés à double tour."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58303,6 +58412,10 @@ msgid ""
 "Let's see... well, okay. The second floor is a security station. Lots of "
 "high-tech stuff up there."
 msgstr ""
+"Eh bien, euh. C'est un chouette endroit. Tu sais, pour une usine.\n"
+"\n"
+"Voyons voir... ah, ouais. La second étage est une plateforme de sécurité. "
+"Pas mal d'équipement high-tech là-bas."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58310,8 +58423,13 @@ msgid ""
 "vault.\n"
 "\n"
 "There's supposed to be something real valuable in there, but nobody knows "
-"what it is. Doesn't stop them from talking about it, though.\n"
+"what it is. Doesn't stop them from talking about it, though."
 msgstr ""
+"Et j'ai entendu des histoires à propos de l'étage du Penthouse. Quelque "
+"chose comme un coffre-fort.\n"
+"\n"
+"Il est sensé y avoir quelque chose de grande valeur la dedans, mais personne "
+"ne sait quoi. Ca les empêche pas de blablater, par contre."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58319,6 +58437,9 @@ msgid ""
 "\n"
 "It's good to know that there're still some decent people out there."
 msgstr ""
+"Pas de soucis, mon pote... et merci.\n"
+"\n"
+"C'est sympa de savoir qu'il reste des personnes descentes par ici."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58326,6 +58447,9 @@ msgid ""
 "\n"
 "I really, really need it."
 msgstr ""
+"C'est sûr. Juste, reviens vite avec mes affaires, okay?\n"
+"\n"
+"J'en ai vraiment, vraiment besoin."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58337,6 +58461,13 @@ msgid ""
 "\n"
 "If this is how it's gonna be, you can keep your favors to yourself."
 msgstr ""
+"Eh bien, alors, pourquoi tu l'as proposé, bordel?\n"
+"\n"
+"{{GM}}En étudiant son langage corporel, vous constatez que Silke est agitée "
+"- on dirait qu'elle n'arrive pas à se décider entre vous baffer ou fondre en "
+"larmes.{{/GM}}\n"
+"\n"
+"Si c'est comme ça, tu peux te garder tes faveurs."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58347,16 +58478,24 @@ msgid ""
 "\n"
 "I mean, what the hell?"
 msgstr ""
+"Sérieusement? Tu viens me parler de désintox, et maintenant tu proposes de "
+"m'acheter un fix?\n"
+"\n"
+"{{GM}}Les yeux de Silke reflètent son incrédulité.{{/GM}}\n"
+"\n"
+"Je veux dire, tu te fous de moi?"
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid "I was just testing you. Congratulations, you passed."
-msgstr ""
+msgstr "C'était un test. Bravo, tu l'as passé."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid ""
 "One more hit won't hurt. Besides, you'll need something to tide you over "
 "until you get to the Kreuzbasar."
 msgstr ""
+"Une dose de plus ne te feras pas de mal. De toute façon, tu auras besoin de "
+"quelque chose pour te dépanner jusqu'à ce que tu arrives au Kreuzbasar."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58366,6 +58505,11 @@ msgid ""
 "\n"
 "Yay, me."
 msgstr ""
+"C'est un plutôt tordu, tu penses pas? Mais bon, okay.\n"
+"\n"
+"{{GM}}Elle fait tourner son doigt à coté de sa tête.{{/GM}}\n"
+"\n"
+"Yay, moi."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58376,6 +58520,12 @@ msgid ""
 "\n"
 "Yeah, I can take one more hit. One more won't hurt."
 msgstr ""
+"Eh bien... ouais, okay...\n"
+"\n"
+"{{GM}}L'envie dans les yeux de Silke est palpable. Alors que vous regardez, "
+"sa récente volonté s'éffrite.{{/GM}}\n"
+"\n"
+"Ouais, je peux en reprendre un peu. Ca ne va pas me tuer."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58384,6 +58534,11 @@ msgid ""
 "And if you're tryin' to make me the same \"deal\" that Kroner was, you can "
 "forget it."
 msgstr ""
+"Tu sais que je n'ai rien pour te payer, hein? Je veux dire, pas avec de "
+"l'argent.\n"
+"\n"
+"Et si tu essais de me proposer le même *plan* que  Kroner, tu peux l'oublier "
+"direct."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58395,16 +58550,26 @@ msgid ""
 "\n"
 "{{GM}}She shudders.{{/GM}}"
 msgstr ""
+"{{GM}}La jeune femme vous regarde suspicieusement.{{/GM}}\n"
+"\n"
+"C'est quoi le piège?\n"
+"\n"
+"...Parce que si tu essais de me faire la même qu'IL vient juste de me "
+"faire...\n"
+"\n"
+"{{GM}}Elle frémit.{{/GM}}"
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid ""
 "Nothing like that. All I need is information. You tell me about the hotel, I "
 "get you some cram."
 msgstr ""
+"Rien de ce type là. Je veux juste des informations. Tu me parles de l'hôtel, "
+"je te file du cram."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid "I'm not that desperate."
-msgstr ""
+msgstr "Je ne suis pas si désespéré."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid "Forget about it. Changed my mind."
@@ -58419,6 +58584,12 @@ msgid ""
 "\n"
 "Well, sure. Yeah, I'll tell you whatever you need!"
 msgstr ""
+"C'est tout ce que tu veux? Je dois juste te parler de l'hôtel?\n"
+"\n"
+"{{GM}}Le visage de la fille s'éclaire, et le tremblement de sa lèvre "
+"disparaît.{{/GM}}\n"
+"\n"
+"Eh bien, ouais, pourquoi pas, je vais te dire ce que tu veux."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58426,24 +58597,29 @@ msgid ""
 "\n"
 "That's what Kroner charges. Go ahead and ask him if you don't believe me."
 msgstr ""
+"Le, euh, le cram... c'est 150 nuyen.\n"
+"\n"
+"C'est ce que prend Kroner. Vas-y, demande le lui si tu ne me crois pas."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid ""
 "{{CC}}Cram{{/CC}} {{GM}}Hook her up.{{/GM}} Screw Kroner. I've got my own "
 "supply."
 msgstr ""
+"{{CC}}Cram{{/CC}} {{GM}}Lui donner.{{/GM}} On emmerde Kroner. J'ai mon "
+"propre stock."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid "{{CC}}¥150{{/CC}} I believe you. Here's the money."
-msgstr ""
+msgstr "{{CC}}¥150{{/CC}} Je te crois. Voila l'argent."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid "Too rich for my blood."
-msgstr ""
+msgstr "Trop cher pour moi."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid "{{GM}}Leave.{{/GM}} On second thought, I don't have time for this."
-msgstr ""
+msgstr "{{GM}}Partie.{{/GM}} A la réflexion, je n'ai pas le temps pour ça."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58451,6 +58627,9 @@ msgid ""
 "\n"
 "This'll keep me goin' for at least another couple of days!"
 msgstr ""
+"Oh, merci, merci, merci.\n"
+"\n"
+"Ca va me permettre de tenir au moins encore quelques jours."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58458,6 +58637,10 @@ msgid ""
 "\n"
 "I mean, fair's fair, right?"
 msgstr ""
+"Okay. Donc je suppose que maintenant je répond à tes questions à propos de "
+"l'hôtel.\n"
+"\n"
+"Je veux dire, un deal est un deal, non?"
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58467,6 +58650,11 @@ msgid ""
 "\n"
 "If cram were *cheap,* I wouldn't BE in this mess."
 msgstr ""
+"Quoi? Tu pensais que c'était gratuit?\n"
+"\n"
+"{{GM}}Silke serre et desserre les mains. Elle semble agité.{{/GM}}\n"
+"\n"
+"Si le cram était *bon marché*, je ne serais PAS dans cette merde."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58479,6 +58667,14 @@ msgid ""
 "\n"
 "...Please?"
 msgstr ""
+"Non! Attends! J'ai vraiment besoin de ton aide!\n"
+"\n"
+"{{GM}}Alors que vous vous retournez pour partie, elle s'affaisse de nouveau "
+"contre le bar. Sa voix est faible et pathétique.{{/GM}}\n"
+"\n"
+"Reviens!\n"
+"\n"
+"...S'il te plait?"
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58489,12 +58685,20 @@ msgid ""
 "\n"
 "...So then, like, what DO you want?"
 msgstr ""
+"Oh... okay...\n"
+"\n"
+"{{GM}}Le visage de la junkie se transforme en un mélange de surprise et de "
+"soulagement.{{/GM}}\n"
+"\n"
+"... Donc, alors, qu'est-ce-que tu veux?"
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid ""
 "I've got some questions about Das Kesselhaus-Hotel. I'm hoping that you've "
 "got some answers."
 msgstr ""
+"J'ai quelques questions à propos de l'hôtel Das Kesselhaus. J'espère que tu "
+"peux m'apporter quelques réponses."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid "Figures."
@@ -58509,17 +58713,27 @@ msgid ""
 "Look around you. Like what you see? Of course you don't. My life is better "
 "on cram. Why would I ever want to stop?"
 msgstr ""
+"Qui a dit que je voulais \"vaincre\" quoique ce soit?\n"
+"\n"
+"{{GM}}Elle vous regarde avec un air mauvais.{{/GM}}\n"
+"\n"
+"Regardes autour de toi. Tu aimes ce que tu vois? Bien sur que non. Ma vie "
+"est meilleur avec du cram. Pourquoi je voudrais arrêter?"
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid ""
 "{{CC}}Intelligence: 3{{/CC}} {{GM}}Point at Kroner.{{/GM}} Do you want to "
 "wind up \"working\" for him?"
 msgstr ""
+"{{CC}}Intelligence: 3{{/CC}} {{GM}}Montrer Kroner.{{/GM}} Tu veux te "
+"retrouver à \"travailler\" pour lui?"
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid ""
 "{{CC}}Biotech: 1{{/CC}} Do you know what happens to long-term cram abusers?"
 msgstr ""
+"{{CC}}Biotech: 1{{/CC}} Tu sais ce qui arrives aux camés au cram à long "
+"terme?"
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid ""
@@ -58532,24 +58746,29 @@ msgid ""
 "{{CC}}Etiquette: Street{{/CC}} You're not just hurting yourself. You're "
 "giving power to *these* assholes."
 msgstr ""
+"{{CC}}Etiquette: Rue{{/CC}} Tu ne fais pas du mal qu'à toi. Tu donnes du "
+"*pouvoir* à ces connards."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid "Life is short. Spending it stoned is a waste."
-msgstr ""
+msgstr "La vie est courte. La passer défoncé, c'est du gâchis."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid "Fine. I can't help you if you don't want to be helped."
-msgstr ""
+msgstr "Parfait. Je ne peux pas t'aider si tu veux pas l'être."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid "I'll tell you the same thing that I told him: That AIN'T gonna HAPPEN."
-msgstr ""
+msgstr "Je vais te dire la même chose qu'à lui: CA N'ARRIVERA JAMAIS."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid ""
 "Maybe not. But in order to keep feeding your habit, you're eventually gonna "
 "wind up doing something that you regret. Trust me on this."
 msgstr ""
+"Peut-être pas. Mais pour continuer à nourrir ta dépendance, tu vas forcément "
+"finir par faire quelque chose que tu vas regretter. Tu peux me croire la "
+"dessus."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58559,18 +58778,28 @@ msgid ""
 "{{GM}}As strong as Silke's words are, her voice sounds unsure. From the way "
 "that she's fidgeting, you can tell that you've struck a nerve.{{/GM}}"
 msgstr ""
+"Arrêtes ça. S'il te plait, arrêtes, okay? Je n'ai pas besoin de ton aide, et "
+"je n'en veux pas.\n"
+"\n"
+"{{GM}}Aussi fort que son les mots de Silke, sa voix n'est qu'un murmure. De "
+"la façon dont elle remue, vous pouvez dire que vous avez tirer une corde "
+"sensible.{{/GM}}"
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid ""
 "{{CC}}Charisma: 3{{/CC}} You're near rock bottom, Silke. When you hit it, "
 "there'll be nowhere to go but up. "
 msgstr ""
+"{{CC}}Charisme: 3{{/CC}} Tu as au fond du trou, Silke. Et on dirait qu'il "
+"n'y a aucune échappatoire."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid ""
 "We only have a limited time to spin on this rock. Spending it stoned is a "
 "waste."
 msgstr ""
+"Nous n'avons qu'un court instant à passer sur cette terre. Le passer en "
+"étant défoncé, c'est du gâchai."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58579,6 +58808,10 @@ msgid ""
 "And besides, cram is a study drug. It's not, like, a BTL or anything. It "
 "won't kill you."
 msgstr ""
+"C'est une nouvelle drogue! Il n'y a *pas * de camés à long terme.\n"
+"\n"
+"Et puis, le cram, c'est une drogue douce. C'est pas comme une BTL ou un truc "
+"du genre. Ca ne va pas me tuer."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid ""
@@ -58586,6 +58819,9 @@ msgid ""
 "your head, but by that point you'll be too manic to care... assuming that "
 "your heart doesn't give out first."
 msgstr ""
+"Le cram c'est une amphétamine.  Continues comme ça et tes dents vont pourrir "
+"et tomber, mais d'ici là, tu seras trop accro pour t'en soucier... en "
+"supposant que ton cœur ne lâche pas d'abord."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58596,12 +58832,20 @@ msgid ""
 "\n"
 "I, uh... I hadn't heard that before."
 msgstr ""
+"Hum. Bien.\n"
+"\n"
+"{{GM}}Elle passe la langue sur ses lèvres, une trace d'inquiétude dans le "
+"regard.{{/GM}}\n"
+"\n"
+"Je, euh... je ne savais pas."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid ""
 "I'm not surprised... like you said, it's a new drug. But what you don't know "
 "can still kill you."
 msgstr ""
+"Ca m'étonne pas... comme tu as dit, c'est une nouvelle drogue. Mais ce que "
+"tu ignores peut quand même te tuer."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58612,6 +58856,12 @@ msgid ""
 "\n"
 "Finally, she clears her throat and looks back up at you."
 msgstr ""
+"Tout à coup, quelque chose dans le visage de Silke.\n"
+"\n"
+"Elle détourne le regarde et fait une pause pendant un long moment. Ses mains "
+"moites se serrent et se desserrent.\n"
+"\n"
+"Finalement, elle s'éclaircit la voix et vous regarde."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58621,10 +58871,16 @@ msgid ""
 "\n"
 "You're right. I need help."
 msgstr ""
+"Ce que tu as dis, ça... ça a du sens.\n"
+"\n"
+"{{GM}}Elle cligne des yeux, jette un coup d'œil à Kroner, et frisonne.{{/"
+"GM}}\n"
+"\n"
+"Tu as raison, j'ai besoin d'aide."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid "I'll, uh... I 'll take you up on your offer."
-msgstr ""
+msgstr "Je vais, euh... je vais accepter ton offre. "
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58632,18 +58888,26 @@ msgid ""
 "\n"
 "Never really worked out."
 msgstr ""
+"Je dois probablement te prévenir... j'ai déjà essayé de rester clean avant. "
+"Pas mal de fois.\n"
+"\n"
+"Ca n'a jamais vraiment fonctionné."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid ""
 "Take the tube to Kreuzberg, to the kiez they call the Kreuzbasar. Look for a "
 "man named Samuel Beckenbauer. He can help you."
 msgstr ""
+"Prends le métro pour Kreuzberg, jusqu'au quartier qu'ils appellent le "
+"Kreuzbasar. Recherches un mec appelé Samuel Beckenbauer. Il pourra t'aider."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid ""
 "You could try heading to the Kreuzbasar. I'm sure there's someone there who "
 "could help you."
 msgstr ""
+"Tu devrais essayer le Kreuzbasar. Je suis sûr que tu y trouveras quelqu'un "
+"pour t'aider."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58653,6 +58917,12 @@ msgid ""
 "\n"
 "Thank you."
 msgstr ""
+"{{GM}}Elle hôche la tête avec impatience, les yeux pleins de grattitude.{{/"
+"GM}}\n"
+"\n"
+"Je le ferai. J'y vais.\n"
+"\n"
+"Merci."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58662,16 +58932,23 @@ msgid ""
 "Wish I could get my stuff back from my room first, though. Stupid gang, "
 "closing the whole hotel."
 msgstr ""
+"Il est temps que je laisse cet endroit derrière moi... J'espère ne jamais "
+"retomber sur un autre Kroner un jour.\n"
+"\n"
+"J'aimerai juste récupérer mes affaires dans ma chambre d'abord. Gang de "
+"merde, fermer tout l'hôtel."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
 "It's about time I left this place behind... If I never see another Kroner "
 "again, it'll be too soon for me."
 msgstr ""
+"Il est temps que je laisse cet endroit derrière moi... J'espère ne jamais "
+"retomber sur un autre Kroner un jour."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid "Glad I could help. Take care of yourself."
-msgstr ""
+msgstr "Content d'avoir pu t'aider. Prend soins de toi."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58680,6 +58957,10 @@ msgid ""
 "Samuel Beckenbauer. He's a community organizer in the Kreuzbasar. He can get "
 "you the help that you need."
 msgstr ""
+"{{GM}}Eiger vous interrompt. Sa voix est douce.{{/GM}}\n"
+"\n"
+"Samuel Beckenbauer. Il gère une communauté dans le Kreuzbasar. Il peut "
+"t'obtenir l'aide dont tu as besoin."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58689,6 +58970,11 @@ msgid ""
 "\n"
 "Thanks."
 msgstr ""
+"Ouais... ouais, je vais y penser.\n"
+"\n"
+"{{GM}}Elle semble dubitative.{{/GM}}\n"
+"\n"
+"Merci"
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58696,6 +58982,10 @@ msgid ""
 "\n"
 "What makes you think that anyone can?"
 msgstr ""
+"Ouais? Peut-être bien. Mais qu'est-ce-qui te fait penser que tu peux "
+"m'aider?\n"
+"\n"
+"Qu'est-ce-qui te fait croire que quelqu'un le peut?"
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid ""
@@ -58703,18 +58993,25 @@ msgid ""
 "If you want people like Kroner out of your life forever, you'll think about "
 "it. "
 msgstr ""
+"L'expérience. Mais, personne ne peut te venir en aide si tu n'es pas prête à "
+"te sauver toi même. Si tu veux virer les types comme Kroner de ta vie pour "
+"de bon, tu devrais y réfléchir."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
 "So? What do I care? They can do whatever they want, as long as they keep "
 "selling me cram."
 msgstr ""
+"Et? Qui s'en soucie? Ils peuvent faire ce qu'ils veulent, tant qu'ils "
+"continuent à me fournir du cram."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid ""
 "That's my point. Look at this place. Cram is just a means to an end for "
 "these people. They'll bleed you dry and leave you with *nothing,* Silke."
 msgstr ""
+"C'est mon point de vue. Regarde cet endroit. Le Cram est juste une mort à "
+"petit feu. Ils te saignent à blanc et te laisse sans *rien*, Silke."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58722,12 +59019,18 @@ msgid ""
 "\n"
 "{{GM}}She looks away, uncertain.{{/GM}}"
 msgstr ""
+"C'est pas comme si ils m'achetaient! Je peux... je peux me casser quand je "
+"veux.\n"
+"\n"
+"{{GM}}Elle regarde autour d'elle, incertaine.{{/GM}}"
 
 #: /data/convos/52604be06361341023004911.convo:ConversationLink:responsetext
 msgid ""
 "You don't believe what you're saying - I can see it in your eyes. But it's "
 "true, Silke. You *can* leave if you want to."
 msgstr ""
+"Tu n'y crois pas toi même - je peux le voir dans tes yeux. Mais c'est la "
+"vérité, Silke. Tu *peux* partir quand tu veux."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid ""
@@ -58739,14 +59042,21 @@ msgid ""
 "It's not your business anyway. I don't even KNOW you! So just leave me "
 "alone, okay?"
 msgstr ""
+"{{GM}}Elle lève les yeux au ciel.{{/GM}}\n"
+"\n"
+"S'il te plait. Ecoute, je suis sur que tu essais juste de m'aider, mais tu "
+"me saoules là.\n"
+"\n"
+"C'est pas ton problème. Je ne te CONNAIS même pas! Alors, laisses moi juste "
+"tranquille, okay?"
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid "That's right. You can't."
-msgstr ""
+msgstr "Exact. Tu ne peux pas."
 
 #: /data/convos/52604be06361341023004911.convo:ConversationNode:text
 msgid "I always do."
-msgstr ""
+msgstr "C'est ce que je fais toujours."
 
 #: /data/convos/52af846f663661f820000f95.convo:ConversationNode:text
 msgid ""
