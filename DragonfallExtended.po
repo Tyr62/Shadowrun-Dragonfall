@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Shadowrun Dragonfall Fr\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-27 13:44+0100\n"
-"PO-Revision-Date: 2015-06-02 16:01+0100\n"
+"PO-Revision-Date: 2015-06-02 16:30+0100\n"
 "Language-Team: nbrunet62\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -116382,16 +116382,21 @@ msgid ""
 "\n"
 "Okay?"
 msgstr ""
+"Je ne veux aucun problème, mon pote... laisse moi me cacher ici jusqu'à ce "
+"que tu es fini.\n"
+"\n"
+"Okay?"
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationLink:responsetext
 msgid ""
 "I took care of the guys outside. You should be able to make a run for it."
 msgstr ""
+"Je me suis occupé des mecs dehors. Tu devrais pouvoir te sauver par la."
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationLink:responsetext
 #: /data/convos/527028b86636614822004e81.convo:ConversationNode:text
 msgid "You do that."
-msgstr ""
+msgstr "Fais donc ça."
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationNode:text
 msgid ""
@@ -116402,18 +116407,24 @@ msgid ""
 "\n"
 "If you let me go, I won't tell anyone! I promise!"
 msgstr ""
+"S'il te plait, ne me frappe pas! Je suis juste le cuistot!\n"
+"\n"
+"{{GM}}Les yeux dardant du cuisinier sont grand ouvert, et au fond d'eux, "
+"vous pouvez voir une pure terreur animale.{{/GM}}\n"
+"\n"
+"Si tu me laisses partie, je ne dirais rien à personne! Je le promet!"
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationLink:responsetext
 msgid "What're you so afraid of?"
-msgstr ""
+msgstr "De quoi as tu si peur?"
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationLink:responsetext
 msgid "Why are you locked in the kitchen?"
-msgstr ""
+msgstr "Pourquoi es tu enfermé dans la cuisine?"
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationLink:responsetext
 msgid "I don't have time for this."
-msgstr ""
+msgstr "J'ai pas le temps pour ça."
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationNode:text
 msgid ""
@@ -116421,18 +116432,21 @@ msgid ""
 "\n"
 "I... um... well, I just thought..."
 msgstr ""
+"Attends... tu n'es pas avec ces types dehors?\n"
+"\n"
+"Je... euh... bien, j'ai cru que..."
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationLink:responsetext
 msgid "You thought what?"
-msgstr ""
+msgstr "Tu as cru quoi?"
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationLink:responsetext
 msgid "Spit it out."
-msgstr ""
+msgstr "Crache le morceau."
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationLink:responsetext
 msgid "Take your time. I'm not going to hurt you."
-msgstr ""
+msgstr "Prend ton temps. Je ne vais pas te frapper."
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationNode:text
 msgid ""
@@ -116445,6 +116459,14 @@ msgid ""
 "\n"
 "...That is to say, WORKED. I worked for the previous owners."
 msgstr ""
+"J'ai cru que tu étais l'un d'EUX. Tu sais, les gangers qui ont pris "
+"l'endroit d'assaut en butant tout le monde.\n"
+"\n"
+"Je travaille...\n"
+"\n"
+"{{GM}}Il se rattrape.{{/GM}}\n"
+"... enfin, je devrais dire, travaillais. Je travaillais pour les prorio "
+"précédents."
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationNode:text
 msgid ""
@@ -116454,18 +116476,23 @@ msgid ""
 "It's been a day and a half... I don't know how much longer I can stay in "
 "here."
 msgstr ""
+"Quand les coups de feu ont commencé, je me suis planqué ici. Ils - peu "
+"importe qui ils sont - n'ont pas encore compris comment bypasser ma clé.\n"
+"\n"
+"Ca fait bientôt un jour et demi... Je ne sais pas combien de temps encore je "
+"pourrai rester ici."
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationLink:responsetext
 msgid "Tell me anything you can about this place."
-msgstr ""
+msgstr "Dis moi tout ce que tu peux sur cet endroit."
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationLink:responsetext
 msgid "Who's the stiff by the sink?"
-msgstr ""
+msgstr "C'est qui le macchabé près de l'évier?"
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationLink:responsetext
 msgid "I need to get moving."
-msgstr ""
+msgstr "Je dois y aller."
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationNode:text
 msgid ""
@@ -116478,6 +116505,15 @@ msgid ""
 "\n"
 "The door code was 5870, if you wanna take a look."
 msgstr ""
+"Okay, euh... euh... Je pense qu'il y a une sorte d'officine dans la chambre "
+"401. Comme des trucs bas de gamme pour doc des rues.\n"
+"\n"
+"J'ai du faire un service de chambre, un jour où nous étions à court de "
+"personnel. je me suis pissé dessus lorsque j'ai vu ce qu'ils faisaient quand "
+"ils ont ouvert la porte. Les gens accrochés à des tubes et des trucs du "
+"genre.\n"
+"\n"
+"Le code de la porte c'était 5870, si tu veux jeter un œil. "
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationNode:text
 msgid ""
@@ -116490,6 +116526,14 @@ msgid ""
 "\n"
 "I couldn't."
 msgstr ""
+"C'était le cuisinier en chef, Felix. Il s'est pris une balle dans le buffet "
+"quand ils ont atteint ce niveau.\n"
+"\n"
+"J'ai cru que je pourrai arrêter l'hémorragie. Mais, euh...\n"
+"\n"
+"{{GM}}Le cuisinier baisse les yeux vers le sol à ses pieds.{{/GM}}\n"
+"\n"
+"J'ai pas pu."
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationLink:responsetext
 msgid ""
@@ -116497,10 +116541,13 @@ msgid ""
 "you think it'd make more sense to drag the body in there than to leave it "
 "under the sink?"
 msgstr ""
+"{{CC}}Intelligence: 3{{/CC}} Tu es à coté d'un frigo de plain-pied. Tu ne "
+"penses pas qu'il serait logique d'y faire glisser le corps, plutôt que de le "
+"laisser sous l'évier?"
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationLink:responsetext
 msgid "Sorry to hear it."
-msgstr ""
+msgstr "Désolé."
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationNode:text
 msgid ""
@@ -116512,10 +116559,18 @@ msgid ""
 "\n"
 "He's already starting to smell."
 msgstr ""
+"Oh. Hum. Okay, c'est probablement...\n"
+"\n"
+"{{GM}}Il jette de nouveau un regard sur le corps, et dégluti. Difficilement."
+"{{/GM}}\n"
+"\n"
+"... C'est probablement une bonne idée.\n"
+"\n"
+"Il commence déjà à sentir."
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationNode:text
 msgid "Yeah... thanks."
-msgstr ""
+msgstr "Ouais... merci."
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationNode:text
 msgid ""
@@ -116523,20 +116578,26 @@ msgid ""
 "\n"
 "I mean, you're not just gonna leave me to die here, are you?"
 msgstr ""
+"Attends! Tu ne vas pas me laisser ici, hein?\n"
+"\n"
+"Je veux dire, tu ne vas pas me laisser crever ici, si?"
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationLink:responsetext
 msgid "There're still gangers out there. You'd be safer in here."
-msgstr ""
+msgstr "Il y a encore des gangers dehors.  Tu es en sécurité ici."
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationLink:responsetext
 msgid "Quit whining. I'm the one who's actually getting shot at out there."
 msgstr ""
+"Arrêtes de pleurnicher. C'est moi qui me suis fait tirer dessus là-bas."
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationLink:responsetext
 msgid ""
 "You're in a kitchen. You have plenty of fresh food and water. You're not "
 "going to die."
 msgstr ""
+"Tu es dans une cuisine. Tu as plein de nourriture et d'eau fraiche. Tu ne "
+"vas pas mourir."
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationNode:text
 msgid ""
@@ -116549,10 +116610,18 @@ msgid ""
 "\n"
 "With him."
 msgstr ""
+"Oh...o-ouais, tu as probablement raison.\n"
+"\n"
+"Je vais juste attendre ici, alors.\n"
+"\n"
+"{{GM}}Le regard du cuisinier file vers le corps du chef gisant, avachi, sous "
+"l'évier.{{/GM}}\n"
+"\n"
+"Avec lui."
 
 #: /data/convos/525822ac6636614c17004db9.convo:ConversationNode:text
 msgid "Thank you! I'm as good as gone!"
-msgstr ""
+msgstr "Merci! Je suis content qu'ils soient partis!"
 
 #: /data/convos/521fabb2303031bc14001670.convo:ConversationNode:text
 msgid ""
